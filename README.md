@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://ipxproxy.com/"><img src="https://ipxproxy.com/images/ipx-proxy_03.png" alt="ipxproxy logo" width="200" height="70"></a>
+    <a href="https://ipxproxy.com/"><img src="https://ipxproxy.com/images/ipx-proxy_03.png" alt="ipxproxy logo" width="180" height="60"></a>
   </a>
 </p>
 
